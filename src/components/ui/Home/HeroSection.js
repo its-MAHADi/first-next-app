@@ -11,7 +11,7 @@ export default function HeroSection() {
      <div className='grid grid-cols-2 text-6xl items-center text-white container '>
 
       <div>
-         <h2 className='text-2xl font-semibold mt-3'> Welcome to Memorial Moments mahadi </h2>
+         <h2 className='text-2xl font-semibold mt-3'> Welcome to Memorial Moments magazine </h2>
          <h2 className='text-5xl mt-3'>Unforgettable Moments, Endless Love</h2>
           <p className='text-xl mt-3'>We understand every funeral is different because every person isunique and each family situation is different.</p> 
          <div className='flex mt-10 gap-4'>
