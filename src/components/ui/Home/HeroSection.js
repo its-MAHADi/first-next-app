@@ -3,7 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 import play from "../../../images/play.jpg.png"
 import google from "../../../images/google.jpg.png"
-import mobile from "../../../images/mobile.jpg.png"
+import mobile from "../../../images/Mobile.png"
 
 export default function HeroSection() {
   return (
